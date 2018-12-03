@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
-import { Consumer } from '../context';
+import { Consumer } from '../../context';
 
 import Contact from './Contact';
 
